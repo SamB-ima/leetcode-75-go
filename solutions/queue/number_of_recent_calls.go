@@ -46,14 +46,14 @@ func Constructor() RecentCounter {
 	}
 }
 
-func (this *RecentCounter) Ping(t int) int {
-	this.timestamps = append(this.timestamps, t)
+func (rc *RecentCounter) Ping(t int) int {
+	rc.timestamps = append(rc.timestamps, t)
 
-	for this.head < len(this.timestamps) && this.timestamps[this.head] < t-3000 {
-		this.head++
+	for rc.head < len(rc.timestamps) && rc.timestamps[rc.head] < t-3000 {
+		rc.head++
 	}
 
-	return len(this.timestamps) - this.head
+	return len(rc.timestamps) - rc.head
 }
 
 /*
