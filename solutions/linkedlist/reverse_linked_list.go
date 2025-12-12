@@ -22,11 +22,6 @@ Constraints:
 	- -5000 <= Node.val <= 5000
 */
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 func ReverseList(head *ListNode) *ListNode {
 	var previous *ListNode
 	current := head

@@ -25,12 +25,6 @@ Constraints:
 	- 1 <= val <= 10^7
 */
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 func SearchBST(root *TreeNode, val int) *TreeNode {
 	current := root
 

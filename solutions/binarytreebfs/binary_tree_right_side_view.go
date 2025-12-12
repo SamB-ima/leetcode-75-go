@@ -31,12 +31,6 @@ Constraints:
 	- -100 <= Node.val <= 100
 */
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 func RightSideView(root *TreeNode) []int {
 	if root == nil {
 		return nil
